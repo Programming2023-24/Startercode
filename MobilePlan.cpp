@@ -67,7 +67,7 @@ int main()
 
 	/*
 	* Print the Bill by displaying the Plan and the Total Cost.
-	* 
+	* FOR CODEGRADE Submission, you must be able to complete the following:
 	Display how much money package A customers would save if they purchased package B or C, 
 	and how much money package B customers would save if they purchased package C
 	* 
