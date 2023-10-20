@@ -1,6 +1,8 @@
+-------------------------- 20 October 2023 -------------------------------------------------------------
 # :wave: Hello Again!
 By the end of today's exercise using MobilePlan.cpp, you should be able to submit your code on CodeGrade. In addition, you must also write an update on your GitHub page on the problem that you have completed and what you have learnt from this exercise.
 
+-------------------------- 13 October 2023 -------------------------------------------------------------
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
